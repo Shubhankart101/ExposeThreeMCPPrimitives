@@ -1,0 +1,1 @@
+"""Supplied MCP equipment components."""
